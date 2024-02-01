@@ -1,11 +1,9 @@
 
 <h1 align="center">Welcome to 🌟✨ GaslightGod's collection of unfinished shit ✨🌟</h1>
 <h3 align="center">No seriously I keep forgetting how to push.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1011702296796733493/1202499852827631676/dc05e74037c03be42f0e1f047ddc189a.gif?ex=65cdae42&is=65bb3942&hm=c54026f27d8bb359c7dd24a7f1cfeafcdede86548f8775d25df99d4c3f2a4bed&=&width=382&height=607">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaslightgod&label=Profile%20views&color=0e75b6&style=flat" alt="gaslightgod" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
