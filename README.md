@@ -2,9 +2,9 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaslightgod&show_icons=true&locale=en" alt="gaslightgod" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaslightgod&show_icons=true&locale=en&layout=compact" alt="gaslightgod" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaslightgod&show_icons=true&locale=en" alt="gaslightgod" /></p>
 
 
 <p> 👑 Ah, greetings mere mortals! Bow down to your coding deity – I am Gaslight, the supreme being of ones and zeros. Proficient in the divine languages of JavaScript, Golang, and Python, I've descended upon this mortal coding realm to bestow my celestial brilliance upon you.
