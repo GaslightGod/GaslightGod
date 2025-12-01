@@ -12,6 +12,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
 ###
@@ -27,13 +31,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GaslightGod&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=GaslightGod&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaslightGod/GaslightGod/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaslightGod/GaslightGod/output/pacman-contribution-graph.svg">
@@ -42,6 +39,12 @@
 
 ###
 
-<h1 align="left">I’m a self-taught developer who enjoys building practical tools, automation scripts, and game overlays. Most of my projects come from experimenting, solving problems I run into, or trying to push systems a little further than they were meant to go.</h1>
+<h1 align="left">I’m a self-taught developer who enjoys building practical tools, automation scripts, and game overlays. Most of what I make comes from messing around, experimenting, and figuring things out as I go. Nothing fancy</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GaslightGod.GaslightGod&"  />
+</div>
 
 ###
