@@ -38,7 +38,7 @@
 
 ###
 
-<h1 align="left">I’m a self-taught developer who enjoys building practical tools, automation scripts, and game overlays. Most of what I make comes from messing around, experimenting, and figuring things out as I go. Nothing fancy</h1>
+<h1 align="left">I’m a self-taught moron. Most of what I make comes from messing around, experimenting, and figuring things out as I go. Nothing fancy tbh</h1>
 
 ###
 
